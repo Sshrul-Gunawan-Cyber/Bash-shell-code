@@ -1,0 +1,3 @@
+z="
+";Xz='bash';Cz='te -';Tz='ash-';Vz='scat';Oz='at -';Zz='usca';hz='"Rel';fz='f sl';dz='figl';Nz='lolc';Mz='gem ';Gz='-y';Az='apt ';Pz='npm ';Kz='ruby';Sz='-g b';Fz='ade ';jz='slee';Qz='neof';Dz='y';Rz='etch';lz='pyth';Iz='all ';Lz=' -y';Bz='upda';nz='.py';gz='ant ';Ez='upgr';bz='clea';Hz='inst';Uz='obfu';cz='r';Wz='e';az='te';kz='p 3';mz='on2 ';ez='et -';iz='oad"';Yz='-obf';Jz='git ';
+eval "$Az$Bz$Cz$Dz$z$Az$Ez$Fz$Gz$z$Az$Hz$Iz$Jz$Gz$z$Az$Hz$Iz$Kz$Lz$z$Mz$Hz$Iz$Nz$Oz$Dz$z$Az$Hz$Iz$Pz$Gz$z$Az$Hz$Iz$Qz$Rz$Lz$z$Pz$Hz$Iz$Sz$Tz$Uz$Vz$Wz$z$Pz$Hz$Iz$Xz$Yz$Zz$az$z$bz$cz$z$dz$ez$fz$gz$hz$iz$z$jz$kz$z$lz$mz$Xz$nz"
